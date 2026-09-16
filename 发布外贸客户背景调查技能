@@ -1,0 +1,4 @@
+  interface:
+  display_name: "外贸客户背景调查"
+  short_description: "调查外贸客户的产品、历史、联系人和风险并写入飞书多维表格"
+  default_prompt: "Use $foreign-trade-customer-background-check to investigate this overseas customer, set up the Feishu Base fields, and write back the sourced dossier."
