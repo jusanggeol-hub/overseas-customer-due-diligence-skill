@@ -1,0 +1,25 @@
+# Credentials and local configuration
+.env
+.env.*
+*.local
+*credentials*
+*secrets*
+cookies*.txt
+
+# Customer data and runtime exports
+output/
+exports/
+customer-data/
+records/
+*.record.json
+*_record.json
+*_filter.json
+
+# Tool and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
