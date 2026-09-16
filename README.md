@@ -1,4 +1,5 @@
-外贸客户背景调查 Skill
+# 外贸客户背景调查 Skill
+
 [![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%201.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
 一个面向外贸销售、渠道开发和交易风控的公开信息调查 Skill。输入公司名称、官网、域名、邮箱、电话或联系人后，系统化调查企业身份、产品范围、成立历史、地址、商业模式、负责人、联系方式、贸易活动与风险信号，并将结构化结果写入飞书多维表格。
