@@ -1,6 +1,3 @@
-# overseas-customer-due-diligence-skill
-Codex Skill for automated overseas customer due diligence with public background investigation and evidence-traceable documentation
-# 外贸客户背景调查 Skill
 
 [![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%201.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
